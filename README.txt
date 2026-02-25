@@ -1,1 +1,1 @@
-bot_with_ats.py   Simple python discord bot using python 3.8 
+bot_with_ats.py   Simple python discord bot using python 3.12
